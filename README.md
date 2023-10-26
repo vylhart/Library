@@ -1,4 +1,4 @@
-# Pikachu Loader Library 🌩
+# Pikachu Loader Library   ![](https://komarev.com/ghpvc/?username=shashankkumar-dev&style=flat-square)
 
 Transform your Android application's loading experience into an electrifying adventure with our Pikachu-inspired loader!
 
